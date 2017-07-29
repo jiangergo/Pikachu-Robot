@@ -1,1 +1,1 @@
-slackbot: ..build /release/Pikachu-Robot
+slackbot: .build/release/pikachu-robot
